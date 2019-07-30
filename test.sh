@@ -1,8 +1,6 @@
-#!/bin/bash                            
-#PERINGATAN: TOOLS INI HANYA UNTUK TEST JD GAK USAH ISUEE YA :)
-clear 
-sleep 0.03
+echo PERINGATAN: TOOLS INI HANYA UNTUK TEST JD GAK USAH ISUEE YA :
 echo LETS GET THIS STARTED
 echo siapa nama nick kaka?  #tulisan keluar
-read nick #membaca yang ditulis
-
+read kaka 
+if [ $lagi = "Ziano"];then
+clear
